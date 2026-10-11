@@ -11,7 +11,7 @@
 
 export const API_URL =
   import.meta.env.VITE_API_URL ||
-  'https://script.google.com/macros/s/XXXXXXXXXXXXXXXXXXXX/exec'
+  'https://script.google.com/macros/s/AKfycbyd4GqEBkSPn8HDqJ3HGdcJmCey018bOE5KZuHIKlOohjV5dIXcXqVQ9zfKFItjlql0/exec'
 
 /** Nilai paparan sementara sebelum konfigurasi dimuat dari pelayan */
 export const LALAI = {
